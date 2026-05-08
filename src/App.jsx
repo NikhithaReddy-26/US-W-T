@@ -792,7 +792,7 @@ const App = () => {
            </p>
            <p className="mt-2 font-['Cormorant_Garamond'] text-lg leading-snug text-[#2C2C2C]">
              Shades of pastel pink and lavender{' '}
-             <span className="text-sm font-normal text-[#4A4A4A]/75">(both men and women)</span>
+             <span className="text-sm font-normal text-[#4A4A4A]/75">(men and women)</span>
            </p>
          </div>
          <div className="rounded-2xl border border-[#4A4A4A]/12 bg-white/80 px-5 py-4 shadow-sm backdrop-blur-sm">
@@ -801,7 +801,7 @@ const App = () => {
            </p>
            <p className="mt-2 font-['Cormorant_Garamond'] text-lg leading-snug text-[#2C2C2C]">
              Glitz and glitter{' '}
-             <span className="text-sm font-normal text-[#4A4A4A]/75">(both men and women)</span>
+             <span className="text-sm font-normal text-[#4A4A4A]/75">(men and women)</span>
            </p>
          </div>
        </div>
