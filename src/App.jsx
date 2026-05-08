@@ -797,7 +797,7 @@ const App = () => {
          </div>
          <div className="rounded-2xl border border-[#4A4A4A]/12 bg-white/80 px-5 py-4 shadow-sm backdrop-blur-sm">
            <p className="text-[10px] font-medium uppercase tracking-[0.2em] text-[#4A4A4A]/55">
-             Sangeeth
+             Sangeet
            </p>
            <p className="mt-2 font-['Cormorant_Garamond'] text-lg leading-snug text-[#2C2C2C]">
              Glitz and glitter{' '}
