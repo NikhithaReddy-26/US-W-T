@@ -592,7 +592,7 @@ const App = () => {
        </p>
        <div className="relative aspect-[3/4] w-full max-w-full overflow-hidden rounded-t-full shadow-2xl sm:max-w-md">
          <img
-           src="assets/images/3e752669-0d2c-451b-917a-aad4e9c85d90.jpg"
+           src="assets/images/PHOTO-2026-05-17-01-10-54.jpg"
            alt="Couple"
            className="w-full h-full object-cover"
          />
